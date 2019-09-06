@@ -1,0 +1,3 @@
+*.exe
+/foo
+second.txt
